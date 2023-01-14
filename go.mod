@@ -1,3 +1,3 @@
-module git.enigmacamp.com/enigma-camp/enigmacamp-2.0/batch-2/trainer/handson/go-file
+module github.com/Fadli2001/go-file.git
 
 go 1.19

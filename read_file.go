@@ -11,7 +11,7 @@ func ReadByLine(fileName string) {
 	if err != nil {
 		fmt.Println("Tidak dapat Membaca File")
 	}
-
+	
 	defer file.Close()
 
 	fileScan := bufio.NewScanner(file)
